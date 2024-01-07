@@ -1,0 +1,7 @@
+.DS_Store
+.structurizr
+diagrams
+build
+dist
+.vscode
+.vs
